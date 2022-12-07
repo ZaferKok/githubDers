@@ -9,6 +9,10 @@ public class GithubMain {
 		System.out.println("Nasılsın?");
 		System.out.println("İyiyim");
 		
+		System.out.println("Ben yeni Branch'ım");
+		
+		System.out.println("Ben daha yeni Branch'ım");
+		
 	}
 
 }
